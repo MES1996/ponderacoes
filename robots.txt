@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mes1996.github.io/ponderacoes/sitemap.xml
