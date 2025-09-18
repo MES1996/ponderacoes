@@ -1,0 +1,2 @@
+# ponderacoes
+Blog pessoal
